@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    list-style: none;
+}
+
+.item {
+    margin-right: 10em;
+    text-align: center;
+    padding-left: 13em;
+
+}
+
